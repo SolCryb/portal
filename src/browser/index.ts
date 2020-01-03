@@ -1,6 +1,5 @@
 import { convertKeyCode } from '../utils/keyboard.utils'
 import { xvfb, pulseaudio, openbox, chromium, ffmpeg, ffmpegaudio, xdotool, gstreamer, gstreameraudio } from './utils'
-
 import { signToken } from '../utils/generate.utils'
 import { fetchPortalId } from '../utils/helpers.utils'
 
